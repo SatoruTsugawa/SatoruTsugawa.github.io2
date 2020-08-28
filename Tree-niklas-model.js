@@ -19,7 +19,7 @@ function draw(){
   background(200);
   translate(0,170,0);
   rotateY(Math.PI/4);
-  rotateY(frameCount * 0.01);
+  rotateY(frameCount * 0.005);
   rotateX(-Math.PI/30);
   drawXYZaxis();
 //  drawCenter();
