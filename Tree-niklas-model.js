@@ -1,5 +1,4 @@
 //Tree-niklas-model.js
-let h=3; //hierarchy
 
 //========GUI========
 
