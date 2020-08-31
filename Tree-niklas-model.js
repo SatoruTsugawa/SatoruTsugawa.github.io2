@@ -12,6 +12,16 @@ function setup() {
   cp=createCanvas(700, 450, WEBGL);
   cp.position(50,90);
   sliderSetting();
+
+  textExplain1=createP('&#9734 Inspired by shell simulators in Shigeru Kondo lab. https://www.fbs-osaka-kondolabo.net/simulation-softs');
+  textExplain1.position(50,550);
+  textExplain1.style('font-size','16px');
+  textExplain1.style('font-weight','bold');
+  textExplain2=createP('Link courtesy of Dr. Shigeru Kondo');
+  textExplain2.position(50,575);
+  textExplain2.style('font-size','16px');
+  textExplain2.style('font-weight','bold');
+
 }
 
 function draw(){
