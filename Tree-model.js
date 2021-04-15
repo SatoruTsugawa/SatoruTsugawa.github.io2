@@ -4,7 +4,7 @@
 
 function setup() {
 
-  textTitle=createP('Tree Niklas model');
+  textTitle=createP('Tree model (L-system)');
   textTitle.position(235,-20);
   textTitle.style('font-size','40px');
   textTitle.style('font-weight','bold');
