@@ -1,4 +1,4 @@
-//Tree-niklas-model.js
+//Tree-model.js
 
 //========GUI========
 
